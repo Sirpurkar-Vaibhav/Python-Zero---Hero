@@ -1,0 +1,26 @@
+#What is py
+1.high level lag
+2.oop
+3.interpreted 
+4.dynamic semantics
+5.general purpose
+6.glue lag
+7.simple syntax
+8.libraries & modules
+
+#Features of py
+1.free t use and open source
+2.easy to code
+3.easy to read
+4.oop lan
+5.gui programming support
+6.high level lang
+7.extensible features 
+8.easy to debug
+9.portable lang
+10.intergrated lang
+11.interpreted lang
+12.large standard library 
+13.dynammically typed
+14.front end amd back end devlop
+15.allocating memory dynamically
